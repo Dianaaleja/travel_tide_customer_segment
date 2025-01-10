@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 # travel_tide_customer_segment
 
 Customer segmentation analysis focusing on user behavior, leveraging SQL for data management and Python for exploratory data analysis (EDA) and visualization.
