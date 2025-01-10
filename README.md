@@ -23,8 +23,7 @@ Founded in April 2021, as the world began emerging from the COVID-19 pandemic, t
 
 ## Files attached 
 
-Metrocar Project Slides.pptx
-Metrocar_project_Diana_Terraza.ipynb
+
 
 ## Links to resource
 
