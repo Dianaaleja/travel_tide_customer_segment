@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/02f3ce3e-d25b-46cd-bd57-a2bd585c38ec)
 
 
 # travel_tide_customer_segment
