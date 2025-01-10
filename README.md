@@ -23,11 +23,11 @@ Founded in April 2021, as the world began emerging from the COVID-19 pandemic, t
 
 ## Files attached 
 
-Final Executive Summary.pdf
-TravelTideSlides.pptx
-traveltidefinalsubmission.csv
-Mastery_Project_TravelTide_EDA_Diana_Terraza.ipynb
-Mastery_Project_Traveltide_Final_DT.ipynb
+* Final Executive Summary.pdf
+* TravelTideSlides.pptx
+* traveltidefinalsubmission.csv
+* Mastery_Project_TravelTide_EDA_Diana_Terraza.ipynb
+* Mastery_Project_Traveltide_Final_DT.ipynb
 
 ## Links to resource
 
