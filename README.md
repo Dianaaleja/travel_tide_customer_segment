@@ -1,0 +1,2 @@
+# travel_tide_customer_segment
+customer segmentation analysis
