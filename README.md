@@ -44,7 +44,7 @@ Back to business. From a business perspective, customer segmentation divides a c
 ## Table Of Contents
 
 1. Context
-2. SQL query
+2. Executive Summary
 3. Python File (Google Colab)
 4. Power Point Presentation
 5. Video
