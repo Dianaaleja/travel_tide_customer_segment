@@ -46,6 +46,7 @@ Back to business. From a business perspective, customer segmentation divides a c
 1. Context
 2. Executive Summary
 3. Python File (Google Colab)
-4. Power Point Presentation
-5. Video
-6. Conclussions and Recommendations
+4. Final Database after segmentation
+5. Power Point Presentation
+6. Video
+7. Conclussions and Recommendations
